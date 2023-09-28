@@ -1,0 +1,11 @@
+{
+    "POP3Host":"pop.mail.ru",
+    "POP3Port":995,
+    "SMTPHost":"smtp.mail.ru",
+    "SMTPPort":25,
+    "TLSEnabled":true,
+    "Login":"",
+    "Pswd":"",
+    "POP3TimeOutSec":5,
+    "LoopDelaySec":15
+}
